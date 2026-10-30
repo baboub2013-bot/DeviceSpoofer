@@ -1,12 +1,12 @@
 # DeviceSpoofer
 
-A lightweight, unofficial **Vencord user plugin** that lets you change the client platform reported to Discord through its Gateway connection — including **Meta Quest / VR**.
+A lightweight, unofficial **Vencord user plugin** that lets you change the client platform reported to Discord through its Gateway connection. Supported presets include **Windows, Web, Android, iOS, and Meta Quest / VR**.
 
 > **Yes, this was vibe-coded because I was lazy.** 💀  
 > Built for fun, not as a polished or security-audited product.
 
 > [!IMPORTANT]
-> This is a **client-platform** spoofer, not a hardware-ID spoofer or ban bypass. It's not affiliated with Discord, Meta, or Vencord. Discord can change how platform indicators work at any time. Using modified clients may violate Discord's Terms of Service.
+> This is a **client-platform** spoofer, not a hardware-ID spoofer or ban bypass. This independent project is **not affiliated with, endorsed by, or officially supported by Discord, Vencord, Meta (Quest), Apple (iOS), Google (Android), Microsoft (Windows), or any browser vendor**. Platform and brand names are used only to identify compatibility presets. Discord can change how platform indicators work at any time. Using modified clients may violate Discord's Terms of Service.
 
 ## Screenshots
 
